@@ -1,0 +1,6 @@
+{
+  "appId": "com.beststore.android",
+  "appName": "beststore",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
